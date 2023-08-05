@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/DELL/IdeaProjects/harika_project">
+    <classes>
+        <class name="browser.openBrowser"/>
+        <class name="pages.signUP"/>
+        <class name="pages.signIn"/>
+        <class name="pages.shop"/>
+        <class name="pages.cart"/>
+        <class name="pages.featured"/>
+
+    </classes>
+    </test>
+</suite>
+
+
