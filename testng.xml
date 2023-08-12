@@ -3,11 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/DELL/IdeaProjects/harika_project">
     <classes>
-        <class name="browser.openBrowser"/>
-        <class name="pages.signUP"/>
-        <class name="pages.signIn"/>
-        <class name="pages.shop"/>
-        <class name="pages.cart"/>
+        <class name="Runner.SignUPUP"/>
+        <class name="Runner.SigININ"/>
+        <class name="Runner.ShopSP"/>
+        <class name="Runner.CartCR"/>
+        <class name="Runner.FeatureFL"/>
         <class name="pages.featured"/>
 
     </classes>

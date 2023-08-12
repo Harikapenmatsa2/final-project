@@ -13,7 +13,7 @@ public class cart {
 
         WebElement cartButton = driver.findElement(By.xpath("//button[@class='button-link navigation-menu-link basket-toggle']"));
         cartButton.click();
-        Thread.sleep(2000);
+        Thread.sleep(4000);
     }
     public static void clearCart(){
         WebElement clear = driver.findElement(By.xpath("//button[@class='basket-clear button button-border button-border-gray button-small']"));
